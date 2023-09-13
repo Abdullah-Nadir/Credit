@@ -44,3 +44,10 @@ $ ./credit
 Number: 6176292929
 INVALID
 ```
+### Links
+
+For more information about Credit visit: 
+
+---------------------------------
+[cs50 course](https://cs50.harvard.edu/x/2022/psets/6/credit/)
+---------------------------------------------------------------
